@@ -1,5 +1,5 @@
 # comsite
-Redesigning of the site http://com.iaau.edu.kg/. <br>
+Redesigning of the site http://com.iaau.edu.kg/. <br><br>
 List of Student's : <br>
 Akzholtoy Kanimetova,
 Aba-Bakri Ibragimov,
