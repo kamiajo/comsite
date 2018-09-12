@@ -27,7 +27,8 @@ List of Student's : <br>
 <ul>|__Labs (Alina)
 <li>Policy&Regulations<br>
 <li>Software<br>
-<li>Contacts<br>
+<li>Contacts<br></ul>
+
 <ul>|__Bachelor program (Gulzat)
   <li>Courses<br>
     <li>Research<br>
