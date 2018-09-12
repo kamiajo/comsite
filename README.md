@@ -9,7 +9,7 @@ List of Student's : <br>
 Index.html<br>
 |__Home (Akzholtoy)
 <ul>|__Department (Aba-Bakri)<br>
-    <li>News<br></li>
+        News<br>
         Developments<br>
         Exchange Programs<br>
         Prospective Students<br>
