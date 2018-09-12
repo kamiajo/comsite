@@ -7,12 +7,12 @@ List of Student's : <br>
 4)Alina Zhakypova,<br>
 5)Kalzira Sabytakunova.<br>
 Index.html<br>
-|__Home (Akzholtoy)
-<ul>|__Department (Aba-Bakri)<br>
-        News<br>
-        Developments<br>
-        Exchange Programs<br>
-        Prospective Students<br>
-        Alumni<br>
-        Info<br>
-</ul>
+<ul>|__Home (Akzholtoy)
+        |__Department (Aba-Bakri)<br>
+                News<br>
+                Developments<br>
+                Exchange Programs<br>
+                Prospective Students<br>
+                Alumni<br>
+                Info<br>
+
