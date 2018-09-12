@@ -30,13 +30,13 @@ List of Student's : <br>
 <li>Contacts<br></ul>
 
 <ul>|__Bachelor program (Gulzat)
-  <li>Courses<br>
-    <li>Research<br>
-      <li>Degree guide<br>
-        <li>Recent diplomas<br>
-          <li>Exam rules<br>
-            <li>Admission<br>
-              <li>FAQ<br>
+<li>Courses<br>
+<li>Research<br>
+<li>Degree guide<br>
+<li>Recent diplomas<br>
+<li>Exam rules<br>
+<li>Admission<br>
+<li>FAQ<br></ul>
                 
 <ul>|__Master Degree (Kalzira)    
     <li>Overview<br>
