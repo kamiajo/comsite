@@ -8,9 +8,10 @@ List of Student's : <br>
 5)Kalzira Sabytakunova.<br><br>
 
 <b>Akzholtoi Kanimetova</b> is a team leader and main designer.
-<ul>|__Home  (Akzholtoi)</ul>
+<ul><b>Project roles:</b><br>
+  <li><ul>|__Home  (Akzholtoi)</ul></li>
 
-<ul>|__Department (Aba-Bakri)
+<li><ul>|__Department (<b>Aba-Bakri Ibragimov</b>)</li>
 <li>News<br>
 <li>Developments<br>
 <li>Exchange Programs<br>
@@ -18,22 +19,22 @@ List of Student's : <br>
 <li>Alumni<br>
 <li>Info<br>
 </ul>
-<ul>|__Faculty (Aba-Bakri)
+<li><ul>|__Faculty (<b>Aba-Bakri Ibragimov</b>)</li>
   <li>All lecturers.</li>
 </ul>
-<ul>|__Calendar (Alina)
+<li><ul>|__Calendar (<b>Alina Zhakypova</b>)</li>
 <li>Academic calendar<br>
 <li>Schedule of lectures<br>
 <li>Midterms schedule<br>
 <li>Finals scgedule<br>
 <li>Labs schedule<br>
 </ul>
-<ul>|__Labs (Alina)
+<li><ul>|__Labs (<b>Alina Zhakypova</b>)</li>
 <li>Policy&Regulations<br>
 <li>Software<br>
 <li>Contacts<br></ul>
 
-<ul>|__Bachelor program (Gulzat)
+<li><ul>|__Bachelor program (<b>Gulzat Umetalieva</b>)</li>
 <li>Courses<br>
 <li>Research<br>
 <li>Degree guide<br>
@@ -42,9 +43,10 @@ List of Student's : <br>
 <li>Admission<br>
 <li>FAQ<br></ul>
                 
-<ul>|__Master Degree (Kalzira)    
+<li><ul>|__Master Degree (<b>Kalzira Sabytakunova</b>)  </li>  
     <li>Overview<br>
     <li>Courses<br>
     <li>Graduate reseach<br>
     <li>Admission<br>
       </ul>
+</ul>
