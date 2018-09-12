@@ -1,7 +1,7 @@
 # Comsite
 Redesigning of the site http://com.iaau.edu.kg/. <br><br>
 List of Student's : <br>
-1)Akzholtoy Kanimetova,<br>
+1)Akzholtoi Kanimetova,<br>
 2)Aba-Bakri Ibragimov,<br>
 3)Gulzat Umetalieva,<br>
 4)Alina Zhakypova,<br>
@@ -9,7 +9,7 @@ List of Student's : <br>
 
 <b>Akzholtoi Kanimetova</b> is a team leader and main designer.
 <ul><b>Project roles:</b><br>
-  <li><ul>|__Home  (<b>Akzholtoy Kanimetova</b>)</ul></li>
+  <li><ul>|__Home  (<b>Akzholtoi Kanimetova</b>)</ul></li>
 
 <li><ul>|__Department (<b>Aba-Bakri Ibragimov</b>)</li>
 <li>News<br>
