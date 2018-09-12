@@ -11,7 +11,7 @@ List of Student's : <br>
 <li>News<br>
 <li>Developments<br>
 <li>Exchange Programs<br>
-<li>Prospective Students<br>
+<li>Prospehctive Students<br>
 <li>Alumni<br>
 <li>Info<br>
 </ul>
@@ -37,3 +37,10 @@ List of Student's : <br>
           <li>Exam rules<br>
             <li>Admission<br>
               <li>FAQ<br>
+                
+  <ul>|__Master Degree (Kalzira)    
+    <li>Overview<br>
+    <li>Courses<br>
+    <li>Graduate reseach<br>
+    <li>Admission<br>
+      </ul>
