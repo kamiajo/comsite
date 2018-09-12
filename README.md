@@ -7,9 +7,6 @@ List of Student's : <br>
 4)Alina Zhakypova,<br>
 5)Kalzira Sabytakunova.<br><br>
 
-Akzholtoi is a team leader and main designer.
-<ul>|__Home (Akzholtoi)</ul>
-
 <ul>|__Department (Aba-Bakri)
 <li>News<br>
 <li>Developments<br>
@@ -18,7 +15,7 @@ Akzholtoi is a team leader and main designer.
 <li>Alumni<br>
 <li>Info<br>
 </ul>
-<ul>|__Faculty (Aba-Bakri)<br>
+<ul>|__Faculty (Aba-Bakri)
 </ul>
 <ul>|__Calendar (Alina)
 <li>Academic calendar<br>
@@ -27,7 +24,15 @@ Akzholtoi is a team leader and main designer.
 <li>Finals scgedule<br>
 <li>Labs schedule<br>
 </ul>
-<ul>|__Labs (Alina)<br>
+<ul>|__Labs (Alina)
 <li>Policy&Regulations<br>
 <li>Software<br>
 <li>Contacts<br>
+<ul>|__Bachelor program (Gulzat)
+  <li>Courses<br>
+    <li>Research<br>
+      <li>Degree guide<br>
+        <li>Recent diplomas<br>
+          <li>Exam rules<br>
+            <li>Admission<br>
+              <li>FAQ<br>
