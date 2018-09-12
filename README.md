@@ -6,5 +6,13 @@ List of Student's : <br>
 3)Gulzat Umetalieva,<br>
 4)Alina Zhakypova,<br>
 5)Kalzira Sabytakunova.<br>
-
+Index.html
+|__Home (Akzholtoy)
+|__Department (Aba-Bakri)
+    News
+    Developments
+    Exchange Programs
+    Prospective Students
+    Alumni
+    Info
 
