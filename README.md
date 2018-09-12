@@ -7,8 +7,8 @@ List of Student's : <br>
 4)Alina Zhakypova,<br>
 5)Kalzira Sabytakunova.<br><br>
 
-Akzholtoi Kanimetova is a team leader and main designer.
-<ul>|__Home  (Akzholtoi)
+<b>Akzholtoi Kanimetova</b> is a team leader and main designer.
+<ul>|__Home  (Akzholtoi)</ul>
 
 <ul>|__Department (Aba-Bakri)
 <li>News<br>
