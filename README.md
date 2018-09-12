@@ -8,11 +8,11 @@ List of Student's : <br>
 5)Kalzira Sabytakunova.<br>
 Index.html<br>
 |__Home (Akzholtoy)<br>
-|__Department (Aba-Bakri)<br>
-        News<br>
+<ul>|__Department (Aba-Bakri)<br>
+    <li>News<br>
         Developments<br>
         Exchange Programs<br>
         Prospective Students<br>
         Alumni<br>
         Info<br>
-
+</ul>
