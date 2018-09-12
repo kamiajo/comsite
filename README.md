@@ -9,7 +9,7 @@ List of Student's : <br>
 
 <b>Akzholtoi Kanimetova</b> is a team leader and main designer.
 <ul><b>Project roles:</b><br>
-  <li><ul>|__Home  (Akzholtoi)</ul></li>
+  <li><ul>|__Home  (<b>Akzholtoy Kanimetova</b>)</ul></li>
 
 <li><ul>|__Department (<b>Aba-Bakri Ibragimov</b>)</li>
 <li>News<br>
