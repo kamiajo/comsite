@@ -37,9 +37,8 @@ List of Student's : <br>
           <li>Exam rules<br>
             <li>Admission<br>
               <li>FAQ<br>
-                </ul>
                 
-  <ul>|__Master Degree (Kalzira)    
+<ul>|__Master Degree (Kalzira)    
     <li>Overview<br>
     <li>Courses<br>
     <li>Graduate reseach<br>
