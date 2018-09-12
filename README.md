@@ -16,6 +16,7 @@ List of Student's : <br>
 <li>Info<br>
 </ul>
 <ul>|__Faculty (Aba-Bakri)
+  <li>All lecturers.</li>
 </ul>
 <ul>|__Calendar (Alina)
 <li>Academic calendar<br>
