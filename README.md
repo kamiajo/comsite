@@ -17,3 +17,14 @@ List of Student's : <br>
 </ul>
 <ul>|__Faculty (Aba-Bakri)
 </ul>
+<ul>|__Calendar (Alina)
+<li>Academic calendar<br>
+<li>Schedule of lectures<br>
+<li>Midterms schedule<br>
+<li>Finals scgedule<br>
+<li>Labs schedule<br>
+</ul>
+<ul>|__Labs (Alina)
+<li>Policy&Regulations<br>
+<li>Software<br>
+<li>Contacts<br>
