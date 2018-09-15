@@ -10,8 +10,8 @@ https://kamiajo.github.io/comsite/
 <li>Alina Zhakypova</li>
 <li>Kalzira Sabytakunova</ol>
 
-<strong>Responsibilities:</strong>
-<strong>Akzholtoi Kanimetova</strong>is a team leader and main designer.
+<strong>Responsibilities:</strong><br>
+<strong>Akzholtoi Kanimetova</strong> is a team leader and main designer.
 <ul>|__Home 
 </ul>
 <strong>Aba-Bakri Ibragimov</strong>
