@@ -1,7 +1,11 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
 
-
+/*
+	Twenty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -1848,7 +1852,7 @@ input, select, textarea {
 	}
 
 		.image:before {
-			
+			background: url("images/overlay.png");
 			content: '';
 			height: 100%;
 			left: 0;
@@ -1941,22 +1945,30 @@ input, select, textarea {
 					background: #df7b77;
 				}
 
-			.icon.circle.fa-github {
+			.icon.circle.fa-instagram {
 				background: #dcad8b;
 				color: #fff;
 			}
 
-				.icon.circle.fa-github:hover {
+				.icon.circle.fa-instagram:hover {
 					background: #e1b89b;
 				}
 
-			.icon.circle.fa-dribbble {
-				background: #da83ae;
+			.icon.circle.fa-youtube {
+				background: #db6b67;
 				color: #fff;
 			}
 
-				.icon.circle.fa-dribbble:hover {
-					background: #df93b8;
+				.icon.circle.fa-youtube:hover {
+					background: #df7b77;
+				}
+				.icon.circle.fa-vk {
+				background: #7490c3;
+				color: #fff;
+			}
+
+				.icon.circle.fa-vk:hover {
+					background: #829bc9;
 				}
 
 		.icon.featured {
@@ -2293,20 +2305,26 @@ input, select, textarea {
 		z-index: 10000;
 	}
 
-		
+		#header h1 {
+			font-weight: 900;
+			margin: 0;
+		}
+
+			#header h1 span {
+				font-weight: 300;
+			}
 
 		#header nav {
 			letter-spacing: 0.075em;
 			position: absolute;
 			right: 1.5em;
 			text-transform: uppercase;
-			top: 3em;
+			top: 0.75em;
 		}
 
 			#header nav ul {
 				list-style: none;
 				padding-left: 0;
-				vertical-align: middle;
 			}
 
 				#header nav ul li {
@@ -2387,17 +2405,13 @@ input, select, textarea {
 			position: absolute;
 		}
 
-		#header.alt img {
-			float: left;
-		}
-
 			#header.alt nav {
 				right: 2.5em;
 				top: 1.75em;
 			}
 
-				?*#header.alt nav ul li.active > a, #header.alt nav ul li:hover > a {
-					 border: solid 1px;
+				#header.alt nav ul li.active > a, #header.alt nav ul li:hover > a {
+					border: solid 1px;
 				}
 
 /* Dropotron */
@@ -2500,7 +2514,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/4.jpg");
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/banner.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
