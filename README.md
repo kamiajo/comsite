@@ -3,6 +3,9 @@ Redesigning of the site http://com.iaau.edu.kg/. <br><br>
 
 https://kamiajo.github.io/comsite/
 
+Template:
+https://html5up.net/twenty
+
 <ol>List of Student's : 
 <li>Akzholtoi Kanimetova</li>
 <li>Aba-Bakri Ibragimov</li>
