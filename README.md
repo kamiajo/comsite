@@ -1,30 +1,58 @@
 # Comsite
 Redesigning of the site http://com.iaau.edu.kg/. <br><br>
-List of Student's : <br>
-1)Akzholtoy Kanimetova,<br>
-2)Aba-Bakri Ibragimov,<br>
-3)Gulzat Umetalieva,<br>
-4)Alina Zhakypova,<br>
-5)Kalzira Sabytakunova.<br><br>
 
-<ul>|__Department (Aba-Bakri)
-<li>News<br>
-<li>Developments<br>
-<li>Exchange Programs<br>
-<li>Prospective Students<br>
-<li>Alumni<br>
-<li>Info<br>
+https://kamiajo.github.io/comsite/
+
+<ol>List of Student's : 
+<li>Akzholtoi Kanimetova</li>
+<li>Aba-Bakri Ibragimov</li>
+<li>Gulzat Umetalieva</li>
+<li>Alina Zhakypova</li>
+<li>Kalzira Sabytakunova</ol>
+
+<strong>Responsibilities:</strong><br>
+<strong>Akzholtoi Kanimetova</strong> is a team leader and main designer.
+<ul>|__Home 
 </ul>
-<ul>|__Faculty (Aba-Bakri)
+<strong>Aba-Bakri Ibragimov</strong>
+<ul>|__Department
+<li>News</li>
+<li>Developments</li>
+<li>Exchange Programs</li>
+<li>Prospective Students</li></li>
+<li>Alumni</li>
+<li>Info</li>
 </ul>
-<ul>|__Calendar (Alina)
-<li>Academic calendar<br>
-<li>Schedule of lectures<br>
-<li>Midterms schedule<br>
-<li>Finals scgedule<br>
-<li>Labs schedule<br>
+<ul>|__Faculty 
 </ul>
-<ul>|__Labs (Alina)
-<li>Policy&Regulations<br>
-<li>Software<br>
-<li>Contacts<br>
+<strong>Gulzat Umetalieva</strong> 
+<ul>|__Bachelor degree
+  <li>Courses</li>
+  <li>Research</li>
+  <li>Degree guide</li>
+  <li>Recent diplomas</li>
+  <li>Exam rules</li>
+  <li>Admission</li>
+  <li>FAQ</li>
+  </ul>
+<strong>Alina Zhakypova</strong>
+<ul>|__Calendar 
+<li>Academic calendar</li>
+<li>Schedule of lectures</li>
+<li>Midterms schedule</li>
+<li>Finals scgedule</li>
+<li>Labs schedule</li>
+</ul>
+<ul>|__Labs 
+<li>Policy&Regulations</li>
+<li>Software</li>
+<li>Contacts</li>
+  </ul>
+<strong>Kalzira Sabytakunova</strong>  
+<ul>|__Master Degree
+  <li>Overview</li>
+  <li>Program</li>
+  <li>Graduate research</li>
+  <li>Admission</li>
+</ul>
+
