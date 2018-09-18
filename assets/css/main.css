@@ -1941,22 +1941,30 @@ input, select, textarea {
 					background: #df7b77;
 				}
 
-			.icon.circle.fa-github {
-				background: #dcad8b;
+			.icon.circle.fa-instagram {
+				background: #cd84f1;
 				color: #fff;
 			}
 
-				.icon.circle.fa-github:hover {
-					background: #e1b89b;
+				.icon.circle.fa-instagram:hover {
+					background: #c56cf0;
 				}
 
-			.icon.circle.fa-dribbble {
-				background: #da83ae;
+			.icon.circle.fa-youtube {
+				background: #db6b67;
 				color: #fff;
 			}
 
-				.icon.circle.fa-dribbble:hover {
-					background: #df93b8;
+				.icon.circle.fa-youtube:hover {
+					background: #df7b77;
+				}
+			.icon.circle.fa-vk {
+				background:#7490c3;
+				color: #fff;
+			}
+
+				.icon.circle.fa-vk:hover {
+					background: #829bc9;
 				}
 
 		.icon.featured {
