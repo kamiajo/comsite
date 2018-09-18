@@ -2308,7 +2308,8 @@ input, select, textarea {
 			position: absolute;
 			right: 1.5em;
 			text-transform: uppercase;
-			top: 3em;
+			top: 2em;
+
 		}
 
 			#header nav ul {
@@ -2319,8 +2320,9 @@ input, select, textarea {
 
 				#header nav ul li {
 					display: inline-block;
-					margin-left: 1.5em;
+					margin-left: 1em;
 					padding-left: 0;
+					padding-bottom: 1em;
 				}
 
 					#header nav ul li > ul {
@@ -2332,7 +2334,7 @@ input, select, textarea {
 						color: inherit;
 						display: inline-block;
 						line-height: 1em;
-						padding: 0.6em 0.75em;
+						padding: 0.6em 0.5em;
 						text-decoration: none;
 					}
 
@@ -2395,13 +2397,14 @@ input, select, textarea {
 			position: absolute;
 		}
 
-		#header.alt img {
+		#header img {
+			height: 70px;
 			float: left;
 		}
 
-			#header.alt nav {
+			#header.alt nav { 
 				right: 2.5em;
-				top: 1.75em;
+				top: 3em;
 			}
 
 				?*#header.alt nav ul li.active > a, #header.alt nav ul li:hover > a {
