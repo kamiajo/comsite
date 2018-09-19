@@ -27,6 +27,9 @@ https://html5up.net/twenty
 <li>Info</li>
 </ul>
 <ul>|__Faculty 
+  <li>S.Erdolatov</li>
+  <li>N.Shaidullaev</li>
+  <li>A.Bondarev</li>
 </ul>
 <strong>Gulzat Umetalieva</strong> 
 <ul>|__Bachelor degree
